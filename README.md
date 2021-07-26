@@ -7,7 +7,6 @@
 
 ## Análisis de datos con python.
 
-![](http://www.finalhints.com/wp-content/uploads/2016/01/opengraph-icon-200x200.png)
 
 ![](https://img.shields.io/badge/Covid--19-Analysis-red)
 

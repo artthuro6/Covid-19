@@ -41,6 +41,11 @@
         "Longitud": -103.7
     },
     {
+        "Estado": " Distrito Federal",
+        "Latitud": 19.42847,
+        "Longitud": -99.12766
+    },
+    {
         "Estado": "Durango",
         "Latitud": 24.0333,
         "Longitud": -104.65
@@ -154,10 +159,5 @@
         "Estado": "Zacatecas",
         "Latitud": 22.7333,
         "Longitud": -102.5
-    },
-    {
-        "Estado": "Ciudad de Mexico",
-        "Latitud": 19.42847,
-        "Longitud": -99.12766
     }
 ]

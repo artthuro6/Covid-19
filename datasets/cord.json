@@ -1,0 +1,163 @@
+
+[
+    {
+        "Estado": "Aguascalientes",
+        "Latitud": 21.8833,
+        "Longitud": -102.3167
+    },
+    {
+        "Estado": "Baja California",
+        "Latitud": 	32.62781, 
+        "Longitud": -115.45446
+    },
+    {
+        "Estado": "Baja California Sur",
+        "Latitud": 25.0333,
+        "Longitud": -111.7333
+    },
+    {
+        "Estado": "Campeche",
+        "Latitud": 19.8,
+        "Longitud": -90.5
+    },
+    {
+        "Estado": "Chiapas",
+        "Latitud": 16.8,
+        "Longitud": -92.8
+    },
+    {
+        "Estado": "Chihuahua",
+        "Latitud": 28.63528, 
+        "Longitud": -106.08889
+    },
+    {
+        "Estado": "Coahuila",
+        "Latitud": 25.42321, 
+        "Longitud": -101.0053
+    },
+    {
+        "Estado": "Colima",
+        "Latitud": 19.2333,
+        "Longitud": -103.7
+    },
+    {
+        "Estado": "Durango",
+        "Latitud": 24.0333,
+        "Longitud": -104.65
+    },
+    {
+        "Estado": "Estado de Mexico",
+        "Latitud": 19.4333,
+        "Longitud": -99.1333
+    },
+    {
+        "Estado": "Guanajuato",
+        "Latitud": 21.0333,
+        "Longitud": -101.25
+    },
+    {
+        "Estado": "Guerrero",
+        "Latitud": 17.5833,
+        "Longitud": -99.6667
+    },
+    {
+        "Estado": "Hidalgo",
+        "Latitud": 20.0333,
+        "Longitud": -98.7
+    },
+    {
+        "Estado": "Jalisco",
+        "Latitud": 20.66682, 
+        "Longitud": -103.39182
+    },
+    {
+        "Estado": "Michoacan",
+        "Latitud": 	19.70078, 
+        "Longitud": -101.18443
+    },
+    {
+        "Estado": "Morelos",
+        "Latitud": 18.8,
+        "Longitud": -99.25
+    },
+    {
+        "Estado": "Nayarit",
+        "Latitud": 21.0333,
+        "Longitud": -104.9
+    },
+    {
+        "Estado": "Nuevo Leon",
+        "Latitud": 	25.67507, 
+        "Longitud": -100.31847
+    },
+    {
+        "Estado": "Oaxaca",
+        "Latitud": 17.05,
+        "Longitud": -96.7167
+    },
+    {
+        "Estado": "Puebla",
+        "Latitud": 19.03793,
+        "Longitud": -98.20346
+    },
+    {
+        "Estado": "Queretaro",
+        "Latitud": 20.6333,
+        "Longitud": -100.3833
+    },
+    {
+        "Estado": "Quintana Roo",
+        "Latitud": 20.4333,
+        "Longitud": -86.9167
+    },
+    {
+        "Estado": "San Luis Potosi",
+        "Latitud": 	22.14982, 
+        "Longitud": -100.97916
+    },
+    {
+        "Estado": "Sinaloa",
+        "Latitud": 24.15,
+        "Longitud": -107.4
+    },
+    {
+        "Estado": "Sonora",
+        "Latitud": 29.1026, 
+        "Longitud": -110.97732
+    },
+    {
+        "Estado": "Tabasco",
+        "Latitud": 16.65,
+        "Longitud": -93.5167
+    },
+    {
+        "Estado": "Tamaulipas",
+        "Latitud": 23.0333,
+        "Longitud": -98.15
+    },
+    {
+        "Estado": "Tlaxcala",
+        "Latitud": 19.3,
+        "Longitud": -98.9
+    },
+    {
+        "Estado": "Veracruz",
+        "Latitud": 19.1833,
+        "Longitud": -96.1333
+    },
+    {
+        "Estado": "Yucatan",
+        "Latitud": 	20.97537, 
+        "Longitud": -89.61696
+    },
+    {
+        "Estado": "Zacatecas",
+        "Latitud": 22.7333,
+        "Longitud": -102.5
+    },
+    {
+        "Estado": "Ciudad de Mexico",
+        "Latitud": 19.42847,
+        "Longitud": -99.12766
+    }
+]
